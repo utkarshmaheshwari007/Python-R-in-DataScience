@@ -8,7 +8,7 @@ This course has been designed by two professional Data Scientists so that we can
 
 3.Classification - Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification.
 
-4. Clustering - K-Means, Hierarchical Clustering.
+4.Clustering - K Means, Hierarchical Clustering.
 
 5.Association Rule Learning - Apriori, Eclat.
 
