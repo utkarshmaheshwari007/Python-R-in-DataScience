@@ -2,24 +2,24 @@
 This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms and coding libraries in a simple way.
 
 # Topics covered in the course
-<li>1.Data Preprocessing: Libraries, Datasets, Categorical-Missing data & Feature Scaling.</li>
+<ul>1.Data Preprocessing: Libraries, Datasets, Categorical-Missing data & Feature Scaling.</ul>
 
-<li>2.Regression: Simple Linear Regression,Multiple Linear Regression,Polynomial Regression,SVR,Decision Tree Regression,Random Forest Regression.</li>
+<ul>2.Regression: Simple Linear Regression,Multiple Linear Regression,Polynomial Regression,SVR,Decision Tree Regression,Random Forest Regression.</ul>
 
-<li>3.Classification - Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification.</li>
+<ul>3.Classification - Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification.</ul>
 
-<li>4. Clustering - K-Means, Hierarchical Clustering.</li>
+<ul>4. Clustering - K-Means, Hierarchical Clustering.</ul>
 
-<li>5.Association Rule Learning - Apriori, Eclat.</li>
+<ul>5.Association Rule Learning - Apriori, Eclat.</ul>
 
-<li>6.Reinforcement Learning - Upper Confidence Bound, Thompson Sampling.</li>
+<ul>6.Reinforcement Learning - Upper Confidence Bound, Thompson Sampling.</ul>
 
-<li>7.Natural Language Processing - Bag-of-words model and algorithms for NLP.</li>
+<ul>7.Natural Language Processing - Bag-of-words model and algorithms for NLP.</ul>
 
-<li>8.Deep Learning - Artificial Neural Networks, Convolutional Neural Networks.</li>
+<ul>8.Deep Learning - Artificial Neural Networks, Convolutional Neural Networks.</ul>
 
-<li>9.Dimensionality Reduction - PCA, LDA, Kernel PCA.</li>
+<ul>9.Dimensionality Reduction - PCA, LDA, Kernel PCA.</ul>
 
-<li>10.Model Selection & Boosting - k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost.</li>
+<ul>10.Model Selection & Boosting - k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost.</ul>
 
 
